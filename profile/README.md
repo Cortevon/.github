@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="YOUR_LOGO_URL" width="180"/>
-</p>
-
-<h1 align="center">CORTEVON</h1>
-<p align="center"><b>Innovate • Automate • Elevate</b></p>
+<h1 align="center">{ 𝘊𝘖𝘙𝘛𝘌𝘝𝘖𝘕 }</h1>
+<p align="center"><b>Engineer • Automate • Evolve</b></p> 
+<!-- <h1 align="center">{ 𝑪𝑶𝑹𝑻𝑬𝑽𝑶𝑵 }</h1>
+<p align="center"><b>Engineer • Automate • Evolve</b></p> -->
 
 ---
 
-### An Engineering Lab for Intelligent Systems.
-
-Deep-tech software, AI automation, and future-ready system design.
+An independent deep-tech lab building intelligent software systems.
